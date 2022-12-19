@@ -1,0 +1,12 @@
+.advertise {
+  max-width: 1100px;
+  background-color: lightgrey;
+  height: 200px;
+  border-radius: 20px;
+  text-align: center;
+  margin: 20px auto;
+}
+.advertise p {
+  font-size: 20px;
+  line-height: 200px;
+}

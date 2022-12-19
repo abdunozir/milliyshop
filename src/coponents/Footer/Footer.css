@@ -1,0 +1,23 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+  border-top: 1px solid lightgrey;
+}
+
+footer a {
+  color: #404e65;
+  text-decoration: none;
+}
+
+footer ul {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+footer ul li {
+  list-style-type: none;
+  cursor: pointer;
+}
